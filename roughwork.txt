@@ -4,7 +4,7 @@ Title
 Adrian
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+You will be a headhunter, assassinating people on different planets in the galaxy
 ...
 World Background
 main differences in your game world
