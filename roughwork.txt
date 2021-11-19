@@ -16,7 +16,7 @@ Pillars
 3. Jumping around space buildings
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+You fly around the galaxy, finding jobs to kill people.
 ...
 Features points
 key selling points of your game
