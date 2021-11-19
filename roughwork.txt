@@ -11,7 +11,9 @@ Humans are able to travel around the galaxy and settle on different worlds.
 Instead of guns they use daggers to kill eachother
 ...
 Pillars
-3-4 fundementals of this game
+1. Space travel in space ships
+2. Killing people with Daggers
+3. Jumping around space buildings
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
